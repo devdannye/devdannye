@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hello, World! 🌐
 
+👨‍💻 My name is Danny, but I go by devdannye online.
+
+🎓 I am a Software Engineering major at ASU.
+
+⚙ My primary programming language is JavaScript (Node.JS) and hope to move towards utilizing TypeScript soon.
+
+My goal this year is to build something new each week and work on that daily to build a nice portfolio of projects while expanding my comfort zone and knowledge as a programmer.
 <!--
 **devdannye/devdannye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
